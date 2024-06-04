@@ -23,23 +23,21 @@ Make sure you have the following installed:
 
 Python (version 3.6 or higher)
 Additional Python libraries listed in requirements.txt
-Installation
+
+### Installation
 Clone this repository to your local machine:
 
-Copy code
-git clone https://github.com/your-username/ai-jarvis-assistance.git
-Navigate to the project directory:
+## Copy code
+git clone https://github.com/LUCKYALI1/AI_JARVIS.git
+## Navigate to the project directory:
 
-Copy code
 cd ai-jarvis-assistance
-Install required dependencies:
 
-Copy code
+## Install required dependencies:
+
 pip install -r requirements.txt
-Usage
-To start Jarvis, run the following command:
-
-Copy code
+### Usage
+## To start Jarvis, run the following command:
 python jarvis.py
 Once Jarvis is running, you can interact with it using voice commands or text input.
 
